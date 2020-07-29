@@ -14,7 +14,7 @@ If I don’t respond, try sending me a funny gif to get my attention.
 ### My feedback style:
 I like to keep feedback positive, but constructive (this goes for giving and receiving). I feel it is important to point out areas of good work as well as areas that can be improved. Within PR/review setting, this could be pointing out something I learned from the PR ("Oh, I never knew about that syntax, awesome!") or just something that stands out to me ("These lines are very clever and clear, nice work!"). Within areas that need improvement, feedback should be constructive and concise. If it's not concise, it may be worth having a 1:1 conversation over (or small group convo).
 
-### What makes me grumpy?
+### What gets my goat?
 Myself, sometimes, for keeping thoughts to myself that should probably be shared. Spending too much time talking about minutiae. Hubris.
 
 ### Interests:
