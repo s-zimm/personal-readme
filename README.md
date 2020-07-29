@@ -1,12 +1,7 @@
 ## How to work with Seth Zimmerman
 
 ### Words that describe me:
-**Goofy**
-**Flexible**
-**Team Player**
-**Approachable**
-**Trustworthy**
-**Level Headed**
+**Goofy** | **Flexible** | **Team Player** | **Approachable** | **Trustworthy** | **Level Headed**
 
 ### When to reach me:
 I am usually available from around 9-6. Since we have stand-ups starting at 10, I like to have that hour before stand up to look back over the work I did yesterday, or if it's time for new work, check out our teamroom to see what stories and defects need to get done (also taking this time to read about them and gain context). I don't necessarily have a preference for meeting times, but I do like when they are immediately after stand-ups or at 10:30am EST since we usually have some established context from discussions within stand-ups.
