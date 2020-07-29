@@ -22,15 +22,11 @@ Recently, Svelte + Firebase!!! Board games, video games, riding my bike, playing
 
 ### Favorites (right now):
 
-**Board games**: Castles of Burgundy, Letter Jam, Agricola: All Creatures Big and Small, Wingspan
-
-**Video games**: Red Dead Redemption 2, Fortnite, Guild Wars 2
-
-**Movies**: Harry Potter series (rewatching them right now and I cry during every one)
-
-**Shows**: Lucifer, Steven Universe, old Cartoon Network shows (THANK YOU HBO MAX)
-
-**Podcasts**: My Brother My Brother and Me, Mission to Zyxx, The Besties
+**Board games**: Castles of Burgundy, Letter Jam, Agricola: All Creatures Big and Small, Wingspan  
+**Video games**: Red Dead Redemption 2, Fortnite, Guild Wars 2  
+**Movies**: Harry Potter series (rewatching them right now and I cry during every one)  
+**Shows**: Lucifer, Steven Universe, old Cartoon Network shows (THANK YOU HBO MAX)  
+**Podcasts**: My Brother My Brother and Me, Mission to Zyxx, The Besties  
 
 ### Goals:
 * Complete the end game logic for my digital implementation of the board game **Letter Jam**
